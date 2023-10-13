@@ -1,6 +1,6 @@
 # Predicting Amazon Product Prices
 
-I am developing a machine learning-based model to determine the optimal selling price of a product, using key features for prediction. The data has been sourced from Kaggle and obtained through web scraping of Amazon's website.
+I am developing a machine learning-based model to predict whether an individual will be approved for a credit card or not. This task will enable the bank to efficiently filter people based on certain key features.
 
-**Please note**: This project may potentially violate some of Amazon's legal agreements. I am undertaking this project solely for educational purposes.
+**Please note**: I am undertaking this project solely for educational purposes.
 
