@@ -1,5 +1,6 @@
-# insurance-premiums-prediction
+# Product price prediction
 
-Prediksi harga per tahun dari health insurace. Dataframe didapatkan US sensus data berasal dari buku machine learning with R.
+I am developing a machine learning-based model to determine the optimal selling price of a product, using key features for prediction. The data has been sourced from Kaggle and obtained through web scraping of Amazon's website.
+# Please note : #  
+This project may potentially violate some of Amazon's legal agreements. I am undertaking this project solely for educational purposes.
 
-Predicting the annual price of health insurance. The DataFrame is obtained from US census data from the book "Machine Learning with R."
